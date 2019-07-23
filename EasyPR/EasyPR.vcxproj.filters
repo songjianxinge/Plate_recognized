@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="资源文件\model">
+      <UniqueIdentifier>{f74b8a9f-6caa-4cff-8545-cf2626f25548}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EasyPR.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EasyPRDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EasyPRView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="character.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="core_func.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="feature.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="plate.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chars_identify.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="kv.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lbp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="helper.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mser2.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="plate_locate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="plate_judge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="plate_detect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chars_segment.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LifeView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EasyPR.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EasyPRDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EasyPRView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core_func.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="feature.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="chars_identify.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="kv.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lbp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="helper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mser2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="plate_locate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="plate_judge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="plate_detect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="chars_segment.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LifeView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="EasyPR.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\EasyPR.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="model\province_mapping">
+      <Filter>资源文件\model</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\EasyPRDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\EasyPR.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="model\ann.xml">
+      <Filter>资源文件\model</Filter>
+    </Xml>
+    <Xml Include="model\ann_chinese.xml">
+      <Filter>资源文件\model</Filter>
+    </Xml>
+    <Xml Include="model\annCh.xml">
+      <Filter>资源文件\model</Filter>
+    </Xml>
+    <Xml Include="model\svm_hist.xml">
+      <Filter>资源文件\model</Filter>
+    </Xml>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>资源文件\model</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
